@@ -1,0 +1,1 @@
+Basic static site in Rails
